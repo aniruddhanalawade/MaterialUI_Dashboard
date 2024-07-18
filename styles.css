@@ -1,0 +1,24 @@
+.container{
+    margin: 1px 0px 1px 0px;
+    width: 100vw;
+    position:absolute;
+}
+.container img{
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    width: 94rem;
+    height: 43rem;
+}
+.text{
+    position: absolute;
+    text-align: center;
+    color: #fff;
+    font-size: 25px;
+    text-shadow: 200px white;
+    padding-left: 450px;
+    margin-top: -650px;
+}
+
+.content{
+    padding: 20px;
+}
